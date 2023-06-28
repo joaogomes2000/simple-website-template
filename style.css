@@ -114,6 +114,10 @@ header, #content, footer {
   color:#FFFFFF; 
 }
 
+.main-menu{
+  justify-content: center;
+  align-items: center;
+}
 /* Menu Links */
 ul.main-menu {
   margin: 0;
