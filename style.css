@@ -13,9 +13,14 @@ body {
   font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #FFFFFF;
 }
-img {
+.logo-container{
+  display: flex;
   justify-content: center;
   align-items: center;
+}
+.logo{
+  max-width: 100%;
+  height: auto;
 }
 
 /**
