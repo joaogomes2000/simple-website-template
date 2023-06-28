@@ -13,6 +13,10 @@ body {
   font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #FFFFFF;
 }
+img {
+  justify-content: center;
+  align-items: center;
+}
 
 /**
  * Links
