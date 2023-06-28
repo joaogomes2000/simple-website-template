@@ -34,9 +34,8 @@ small {
 /**
  * Headings
  */
- .title{
-  justify-content: center;
-  align-items: center;
+ .title {
+  text-align: center;
 }
 
 h1,
@@ -114,9 +113,8 @@ header, #content, footer {
   color:#FFFFFF; 
 }
 
-.main-menu{
-  justify-content: center;
-  align-items: center;
+ul.main-menu {
+  text-align: center;
 }
 /* Menu Links */
 ul.main-menu {
