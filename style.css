@@ -53,6 +53,11 @@ h4 { font-size: 1.8rem; line-height: 1.5;  letter-spacing: -.05rem; }
 h5 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 h6 { font-size: 1.4rem; line-height: 1.6;  letter-spacing: 0; }
 
+.title{
+  justify-content: center;
+  align-items: center;
+}
+
 /**
  * Paragraphs
  */
@@ -113,7 +118,8 @@ ul.main-menu {
   padding: 0;
   display: flex;
   flex-wrap: wrap;
-  justify-content: left;
+  justify-content: center;
+  align-items: center;
   list-style: none;
 }
 ul.main-menu li a {
